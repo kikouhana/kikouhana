@@ -6,5 +6,4 @@
   <p align="center">
   <a href="https://rentry.co/eitakitty/"> main rentry </a> ✧
   <a href="https://rentry.co/kitakawaii"> matching </a> ✧
-  <a href="https://ogakoi.carrd.co"> ⚠DANGER⚠ </a>
   
