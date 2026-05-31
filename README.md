@@ -5,5 +5,4 @@
 <img src="https://i.ibb.co/WWyj2Xd2/ARISHIM-PLEASE.png" width="40%">
   <p align="center">
   <a href="https://formewo.straw.page"> straw page </a> ✧
-  <a href="https://rentry.co/kitakawaii"> matching </a> ✧
   <a href="https://room728.atabook.org/"> sign ata </a>
